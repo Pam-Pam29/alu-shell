@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# works with 11-manage_my_process
+# Infinite loop. Script to be used with 11-manage_my_process
+
 while (true)
 do
     echo "I am alive!" >> /tmp/my_process
